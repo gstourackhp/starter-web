@@ -13,4 +13,4 @@ Sample website with plenty of files for demos
 Do things
 
 ## Copyright
-Nobody Inc.
+Nobody Inc. All Rights Reserved.
